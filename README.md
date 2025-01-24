@@ -1,1 +1,3 @@
-# rag-chatbot-i03-rag-chatbot-container-27715-27950-pre_prod
+# Project Repository
+
+This is the initial README file for the project.
